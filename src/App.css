@@ -1,0 +1,53 @@
+.form {
+  box-sizing: border-box;
+  width: 560px;
+  height: 330px;
+  flex: column;
+  margin: auto;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.btn {
+  border-radius: 10px;
+  padding: 3px 5px 3px 5px;
+  margin-top: 25px
+}
+
+.container {
+  padding: 90px 0 0 0;
+}
+
+.content {
+  flex: column;
+  padding: 20px
+}
+
+.content .inputText {
+  margin-left: 40px;
+}
+
+.pilihan {
+  margin-left: 168px
+}
+
+.inAnggur {
+  margin-left: 85px
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.content h1 {
+  text-align: center;
+}
+
+.content .name {
+  font-weight: bold;
+}
+
+.pilihan label {
+  font-weight: normal;
+}

@@ -1,4 +1,5 @@
 .form {
+  background-color: white;
   box-sizing: border-box;
   width: 560px;
   height: 330px;
@@ -16,7 +17,7 @@
 }
 
 .container {
-  padding: 90px 0 0 0;
+  padding: 35px 0 0 0;
 }
 
 .content {

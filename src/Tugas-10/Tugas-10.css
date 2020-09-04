@@ -1,0 +1,46 @@
+table {
+    border: 1px solid black;
+
+}
+
+.td1 {
+    width: 300px;
+}
+
+.td2 {
+    width: 180px;
+}
+
+.td3 {
+    width: 180px;
+}
+
+th {
+    background-color: darkgray;
+}
+
+td {
+    background-color: rgb(255, 121, 69);
+}
+
+.table {
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    margin: auto;
+
+}
+
+table {
+    margin: auto;
+}
+
+.label {
+
+    text-align: center;
+}
+
+.warp-table {
+    height: 250px;
+    display: block;
+    padding-bottom: 20px;
+}
